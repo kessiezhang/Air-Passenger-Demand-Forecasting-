@@ -30,15 +30,15 @@ In a terminal or command window, navigate to the top-level project directory and
 
 This will open the Jupyter Notebook software and project file in your browser.
 
-#### Data:
+### Data:
  [Air Carrier Payload Data from the Bureau of Transportation Statistics](http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=259&DB_Short_Name=Air%20Carriers). (2010-2020)
 
-#### Visualization:
-Mail: 
+### Visualization:
+#### Mail: 
 ![image](https://user-images.githubusercontent.com/44122973/81238750-b06de280-8fb7-11ea-850a-3121281a9498.png)
 
-Passenger:
+#### Passenger:
 ![image](https://user-images.githubusercontent.com/44122973/81238813-dd21fa00-8fb7-11ea-81a0-21120e5bbbcf.png)
 
-Prediction:
+#### Prediction:
 ![image](https://user-images.githubusercontent.com/44122973/81238880-080c4e00-8fb8-11ea-83c1-0689d2cea8ec.png)
