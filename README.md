@@ -31,7 +31,7 @@ In a terminal or command window, navigate to the top-level project directory and
 This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data:
- [Air Carrier Payload Data from the Bureau of Transportation Statistics](http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=259&DB_Short_Name=Air%20Carriers). (2010-2020)
+ [Air Carrier Payload Data from the Bureau of Transportation Statistics](http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=259&DB_Short_Name=Air%20Carriers). (2010-2019)
 
 ### Visualization:
 #### Mail: 
