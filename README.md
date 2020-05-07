@@ -4,7 +4,7 @@
 
 The ability to accurately forecast data is highly desirable in a wide variety of fields. Time series analysis allows us to forecast a future event through identifying trends and seasonal variances over a period of time. 
 
-The goal of this project is to develop a time series model to forecast air passenger demand that could increase aircraft utilization. Utilization KPI is one of the most important KPI for Airline Operations. It is calculated as the percentage of checked-in passengers in relation to available seats of an aircraft. The method can be used to forecast cargo demand, sales, stocks, sports performance, etc. 
+The goal of this project is to develop a time series model to forecast air passenger demand that could increase aircraft utilization. Utilization KPI is one of the most important KPIs for Airline Operations. It is calculated as the percentage of checked-in passengers in relation to available seats of an aircraft. The method can be used to forecast cargo demand, sales, stocks, sports performance, etc. 
 
 ### Install
 
